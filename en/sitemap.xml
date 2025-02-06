@@ -2,90 +2,90 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/</loc>
+    <loc>https://gohugo-theme-ananke.pages.dev/en/</loc>
     <lastmod>2024-10-17T09:03:48+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
-                href="http://localhost:1313/"
+                href="https://gohugo-theme-ananke.pages.dev/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/"
+                href="https://gohugo-theme-ananke.pages.dev/en/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/skills/</loc>
+    <loc>https://gohugo-theme-ananke.pages.dev/en/skills/</loc>
     <lastmod>2024-10-17T09:03:48+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
-                href="http://localhost:1313/skills/"
+                href="https://gohugo-theme-ananke.pages.dev/skills/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/skills/"
+                href="https://gohugo-theme-ananke.pages.dev/en/skills/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/contact/</loc>
+    <loc>https://gohugo-theme-ananke.pages.dev/en/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
-                href="http://localhost:1313/contact/"
+                href="https://gohugo-theme-ananke.pages.dev/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/contact/"
+                href="https://gohugo-theme-ananke.pages.dev/en/contact/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/privacypolicy/</loc>
+    <loc>https://gohugo-theme-ananke.pages.dev/en/privacypolicy/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
-                href="http://localhost:1313/privacypolicy/"
+                href="https://gohugo-theme-ananke.pages.dev/privacypolicy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/privacypolicy/"
+                href="https://gohugo-theme-ananke.pages.dev/en/privacypolicy/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/categories/</loc>
+    <loc>https://gohugo-theme-ananke.pages.dev/en/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
-                href="http://localhost:1313/categories/"
+                href="https://gohugo-theme-ananke.pages.dev/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/categories/"
+                href="https://gohugo-theme-ananke.pages.dev/en/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/</loc>
+    <loc>https://gohugo-theme-ananke.pages.dev/en/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
-                href="http://localhost:1313/tags/"
+                href="https://gohugo-theme-ananke.pages.dev/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/"
+                href="https://gohugo-theme-ananke.pages.dev/en/tags/"
                 />
   </url>
 </urlset>

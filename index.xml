@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BitSolder Oy</title>
-    <link>http://localhost:1313/</link>
+    <link>https://gohugo-theme-ananke.pages.dev/</link>
     <description>Recent content on BitSolder Oy</description>
     <generator>Hugo</generator>
     <language>fi</language>
     <lastBuildDate>Thu, 17 Oct 2024 09:03:48 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gohugo-theme-ananke.pages.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/skills/</link>
+      <link>https://gohugo-theme-ananke.pages.dev/skills/</link>
       <pubDate>Thu, 17 Oct 2024 09:03:48 +0300</pubDate>
-      <guid>http://localhost:1313/skills/</guid>
-      <description>&lt;p&gt;Muun muassa seuraavankaltaisissa kehitystarpeissa voin auttaa.&lt;/p&gt;&#xA;&lt;p&gt;Sulautettujen järjestelmien suunnittelu ja testaus:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;suunnittelu&lt;/li&gt;&#xA;&lt;li&gt;testaus&lt;/li&gt;&#xA;&lt;li&gt;kenttäkokeet / käyttöönottotestaus&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Systeeminhallinta ja virtualisointi:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;bash&lt;/li&gt;&#xA;&lt;li&gt;ansible&lt;/li&gt;&#xA;&lt;li&gt;Nix/NixOS&lt;/li&gt;&#xA;&lt;li&gt;docker&lt;/li&gt;&#xA;&lt;li&gt;KVM ja QEMU/KVM&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;IoT datan siirto, prosessointi ja visualisointi:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;MQTT&lt;/li&gt;&#xA;&lt;li&gt;telegraf&lt;/li&gt;&#xA;&lt;li&gt;PostgreSQL, MySQL, Sqlite, InfluxDb&lt;/li&gt;&#xA;&lt;li&gt;Grafana&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Videon ja audion automatisoitu prosessointi ja siirto:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ffmpeg&lt;/li&gt;&#xA;&lt;li&gt;opencv&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Ohjelmointi:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;c, c++, Python, php, Rust&lt;/li&gt;&#xA;&lt;li&gt;react, react native&lt;/li&gt;&#xA;&lt;li&gt;next.js&lt;/li&gt;&#xA;&lt;li&gt;three.js&lt;/li&gt;&#xA;&lt;li&gt;html, css, js&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Tässä on osaamiskuutioni. Taitotasot 0 - 5. Voit pyörittää graafia vasemmalla hiiren nappulalla vetämällä, siirtää sitä oikealla hiiren nappulalla vetämällä ja zoomata hiiren rullalla.&#xA;&lt;iframe src=&#34;http://localhost:1313/html/skillcube/index.html&#34;&#xA;        width=&#34;800px&#34;&#xA;        height=&#34;600px&#34;&#xA;        frameborder=&#34;0&#34;&#xA;        allowfullscreen&gt;&#xA;&lt;/iframe&gt;&#xA;&#xA;&lt;/p&gt;</description>
+      <guid>https://gohugo-theme-ananke.pages.dev/skills/</guid>
+      <description>&lt;p&gt;Muun muassa seuraavankaltaisissa kehitystarpeissa voin auttaa.&lt;/p&gt;&#xA;&lt;p&gt;Sulautettujen järjestelmien suunnittelu ja testaus:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;suunnittelu&lt;/li&gt;&#xA;&lt;li&gt;testaus&lt;/li&gt;&#xA;&lt;li&gt;kenttäkokeet / käyttöönottotestaus&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Systeeminhallinta ja virtualisointi:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;bash&lt;/li&gt;&#xA;&lt;li&gt;ansible&lt;/li&gt;&#xA;&lt;li&gt;Nix/NixOS&lt;/li&gt;&#xA;&lt;li&gt;docker&lt;/li&gt;&#xA;&lt;li&gt;KVM ja QEMU/KVM&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;IoT datan siirto, prosessointi ja visualisointi:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;MQTT&lt;/li&gt;&#xA;&lt;li&gt;telegraf&lt;/li&gt;&#xA;&lt;li&gt;PostgreSQL, MySQL, Sqlite, InfluxDb&lt;/li&gt;&#xA;&lt;li&gt;Grafana&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Videon ja audion automatisoitu prosessointi ja siirto:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ffmpeg&lt;/li&gt;&#xA;&lt;li&gt;opencv&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Ohjelmointi:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;c, c++, Python, php, Rust&lt;/li&gt;&#xA;&lt;li&gt;react, react native&lt;/li&gt;&#xA;&lt;li&gt;next.js&lt;/li&gt;&#xA;&lt;li&gt;three.js&lt;/li&gt;&#xA;&lt;li&gt;html, css, js&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Tässä on osaamiskuutioni. Taitotasot 0 - 5. Voit pyörittää graafia vasemmalla hiiren nappulalla vetämällä, siirtää sitä oikealla hiiren nappulalla vetämällä ja zoomata hiiren rullalla.&#xA;&lt;iframe src=&#34;https://gohugo-theme-ananke.pages.dev/html/skillcube/index.html&#34;&#xA;        width=&#34;800px&#34;&#xA;        height=&#34;600px&#34;&#xA;        frameborder=&#34;0&#34;&#xA;        allowfullscreen&gt;&#xA;&lt;/iframe&gt;&#xA;&#xA;&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/contact/</link>
+      <link>https://gohugo-theme-ananke.pages.dev/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>https://gohugo-theme-ananke.pages.dev/contact/</guid>
       <description>&lt;h3 id=&#34;yhteystiedot&#34;&gt;Yhteystiedot&lt;/h3&gt;&#xA;&lt;p&gt;Sähköposti: &lt;a href=&#34;mailto:info@bitsolder.com&#34;&gt;info@bitsolder.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/privacypolicy/</link>
+      <link>https://gohugo-theme-ananke.pages.dev/privacypolicy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/privacypolicy/</guid>
+      <guid>https://gohugo-theme-ananke.pages.dev/privacypolicy/</guid>
       <description>&lt;h3 id=&#34;tietosuojaseloste&#34;&gt;Tietosuojaseloste&lt;/h3&gt;&#xA;&lt;h4 id=&#34;1-henkilötietojen-käsittelyn-tarkoitus&#34;&gt;1. Henkilötietojen käsittelyn tarkoitus&lt;/h4&gt;&#xA;&lt;p&gt;Keräämme henkilötietoja vastataksemme yhteydenottopyyntöihin, ylläpitääksemme asiakassuhteita ja markkinoidaksemme palveluitamme.&lt;/p&gt;&#xA;&lt;h4 id=&#34;2-kerättävät-henkilötiedot&#34;&gt;2. Kerättävät henkilötiedot&lt;/h4&gt;&#xA;&lt;p&gt;Keräämämme henkilötiedot sisältävät nimesi, sähköpostiosoitteesi ja mahdollisesti puhelinnumerosi yhteydenottolomakkeen kautta.&lt;/p&gt;&#xA;&lt;h4 id=&#34;3-henkilötietojen-tekninen-suojaus&#34;&gt;3. Henkilötietojen tekninen suojaus&lt;/h4&gt;&#xA;&lt;p&gt;Olemme toteuttaneet asianmukaisia teknisiä toimenpiteitä suojataksemme henkilötietoja luvattomalta pääsyltä, muuttamiselta, paljastamiselta tai tuhoamiselta. Näihin toimenpiteisiin kuuluvat salaus, palomuurit ja turvalliset palvelinympäristöt. Tarkastamme ja päivitämme säännöllisesti turvallisuuskäytäntöjämme varmistaaksemme henkilötietojesi jatkuvan suojan.&lt;/p&gt;&#xA;&lt;h4 id=&#34;4-henkilötietojen-käsittelyn-oikeudellinen-peruste&#34;&gt;4. Henkilötietojen käsittelyn oikeudellinen peruste&lt;/h4&gt;&#xA;&lt;p&gt;Oikeudellinen peruste henkilötietojen käsittelylle on oikeutettu etu tai suostumus, erityisesti vastattaessa yhteydenottopyyntöihin.&lt;/p&gt;</description>
     </item>
   </channel>
