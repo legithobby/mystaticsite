@@ -2,90 +2,90 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gohugo-theme-ananke.pages.dev/</loc>
+    <loc>https://www.bitsolder.com/</loc>
     <lastmod>2024-10-17T09:03:48+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gohugo-theme-ananke.pages.dev/en/"
+                href="https://www.bitsolder.com/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
-                href="https://gohugo-theme-ananke.pages.dev/"
+                href="https://www.bitsolder.com/"
                 />
   </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/skills/</loc>
+    <loc>https://www.bitsolder.com/skills/</loc>
     <lastmod>2024-10-17T09:03:48+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gohugo-theme-ananke.pages.dev/en/skills/"
+                href="https://www.bitsolder.com/en/skills/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
-                href="https://gohugo-theme-ananke.pages.dev/skills/"
+                href="https://www.bitsolder.com/skills/"
                 />
   </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/contact/</loc>
+    <loc>https://www.bitsolder.com/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gohugo-theme-ananke.pages.dev/en/contact/"
+                href="https://www.bitsolder.com/en/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
-                href="https://gohugo-theme-ananke.pages.dev/contact/"
+                href="https://www.bitsolder.com/contact/"
                 />
   </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/privacypolicy/</loc>
+    <loc>https://www.bitsolder.com/privacypolicy/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gohugo-theme-ananke.pages.dev/en/privacypolicy/"
+                href="https://www.bitsolder.com/en/privacypolicy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
-                href="https://gohugo-theme-ananke.pages.dev/privacypolicy/"
+                href="https://www.bitsolder.com/privacypolicy/"
                 />
   </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/categories/</loc>
+    <loc>https://www.bitsolder.com/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gohugo-theme-ananke.pages.dev/en/categories/"
+                href="https://www.bitsolder.com/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
-                href="https://gohugo-theme-ananke.pages.dev/categories/"
+                href="https://www.bitsolder.com/categories/"
                 />
   </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/tags/</loc>
+    <loc>https://www.bitsolder.com/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://gohugo-theme-ananke.pages.dev/en/tags/"
+                href="https://www.bitsolder.com/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
-                href="https://gohugo-theme-ananke.pages.dev/tags/"
+                href="https://www.bitsolder.com/tags/"
                 />
   </url>
 </urlset>
