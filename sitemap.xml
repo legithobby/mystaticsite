@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>http://localhost:33407/fi/sitemap.xml</loc>
+    <loc>https://www.bitsolder.com/fi/sitemap.xml</loc>
     
       <lastmod>2024-10-17T09:03:48+03:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>http://localhost:33407/en/sitemap.xml</loc>
+    <loc>https://www.bitsolder.com/en/sitemap.xml</loc>
     
       <lastmod>2024-10-17T09:03:48+03:00</lastmod>
     

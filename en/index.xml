@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BitSolder Oy</title>
-    <link>http://localhost:1313/en/</link>
+    <link>https://www.bitsolder.com/en/</link>
     <description>Recent content on BitSolder Oy</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 17 Oct 2024 09:03:48 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.bitsolder.com/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/en/skills/</link>
+      <link>https://www.bitsolder.com/en/skills/</link>
       <pubDate>Thu, 17 Oct 2024 09:03:48 +0300</pubDate>
-      <guid>http://localhost:1313/en/skills/</guid>
+      <guid>https://www.bitsolder.com/en/skills/</guid>
       <description>&lt;p&gt;I can help with development needs such as the following:&lt;/p&gt;&#xA;&lt;p&gt;Design of embedded systems:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;design&lt;/li&gt;&#xA;&lt;li&gt;testing&lt;/li&gt;&#xA;&lt;li&gt;field trials / deployment testing&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;System administration and virtualization:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;bash&lt;/li&gt;&#xA;&lt;li&gt;ansible&lt;/li&gt;&#xA;&lt;li&gt;Nix/NixOS&lt;/li&gt;&#xA;&lt;li&gt;docker&lt;/li&gt;&#xA;&lt;li&gt;KVM ja QEMU/KVM&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I have programmed in several programming languages:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;c, c++, Python, php, Rust&lt;/li&gt;&#xA;&lt;li&gt;react, react native&lt;/li&gt;&#xA;&lt;li&gt;next.js&lt;/li&gt;&#xA;&lt;li&gt;three.js&lt;/li&gt;&#xA;&lt;li&gt;html, css, js&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Here is my skillcube. Skill levels from 0 to 5. You can rotate the graph with left mouse drag, move it with right mouse drag and zoom it with scroll wheel.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/en/contact/</link>
+      <link>https://www.bitsolder.com/en/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/contact/</guid>
+      <guid>https://www.bitsolder.com/en/contact/</guid>
       <description>&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:info@bitsolder.com&#34;&gt;info@bitsolder.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/en/privacypolicy/</link>
+      <link>https://www.bitsolder.com/en/privacypolicy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/privacypolicy/</guid>
+      <guid>https://www.bitsolder.com/en/privacypolicy/</guid>
       <description>&lt;h2 id=&#34;privacy-policy&#34;&gt;Privacy policy&lt;/h2&gt;&#xA;&lt;h4 id=&#34;1-purpose-of-data-processing&#34;&gt;1. Purpose of Data Processing&lt;/h4&gt;&#xA;&lt;p&gt;We collect personal data to respond to contact requests, maintain customer relationships, and market our services.&lt;/p&gt;&#xA;&lt;h4 id=&#34;2-types-of-personal-data-collected&#34;&gt;2. Types of Personal Data Collected&lt;/h4&gt;&#xA;&lt;p&gt;The personal data we collect includes your name, email address, and potentially your phone number through our contact form.&lt;/p&gt;&#xA;&lt;h4 id=&#34;3-technical-protection-of-personal-data&#34;&gt;3. Technical Protection of Personal Data&lt;/h4&gt;&#xA;&lt;p&gt;We implement appropriate technical measures to protect personal data against unauthorized access, alteration, disclosure, or destruction. These measures include encryption, firewalls, and secure server environments. We regularly review and update our security practices to ensure the ongoing protection of your personal information.&lt;/p&gt;</description>
     </item>
   </channel>
