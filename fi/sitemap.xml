@@ -2,90 +2,90 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.bitsolder.com/</loc>
+    <loc>http://localhost:33407/</loc>
     <lastmod>2024-10-17T09:03:48+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.bitsolder.com/en/"
+                href="http://localhost:33407/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
-                href="https://www.bitsolder.com/"
+                href="http://localhost:33407/"
                 />
   </url><url>
-    <loc>https://www.bitsolder.com/skills/</loc>
+    <loc>http://localhost:33407/skills/</loc>
     <lastmod>2024-10-17T09:03:48+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.bitsolder.com/en/skills/"
+                href="http://localhost:33407/en/skills/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
-                href="https://www.bitsolder.com/skills/"
+                href="http://localhost:33407/skills/"
                 />
   </url><url>
-    <loc>https://www.bitsolder.com/contact/</loc>
+    <loc>http://localhost:33407/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.bitsolder.com/en/contact/"
+                href="http://localhost:33407/en/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
-                href="https://www.bitsolder.com/contact/"
+                href="http://localhost:33407/contact/"
                 />
   </url><url>
-    <loc>https://www.bitsolder.com/privacypolicy/</loc>
+    <loc>http://localhost:33407/privacypolicy/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.bitsolder.com/en/privacypolicy/"
+                href="http://localhost:33407/en/privacypolicy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
-                href="https://www.bitsolder.com/privacypolicy/"
+                href="http://localhost:33407/privacypolicy/"
                 />
   </url><url>
-    <loc>https://www.bitsolder.com/categories/</loc>
+    <loc>http://localhost:33407/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.bitsolder.com/en/categories/"
+                href="http://localhost:33407/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
-                href="https://www.bitsolder.com/categories/"
+                href="http://localhost:33407/categories/"
                 />
   </url><url>
-    <loc>https://www.bitsolder.com/tags/</loc>
+    <loc>http://localhost:33407/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.bitsolder.com/en/tags/"
+                href="http://localhost:33407/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
-                href="https://www.bitsolder.com/tags/"
+                href="http://localhost:33407/tags/"
                 />
   </url>
 </urlset>
